@@ -61,7 +61,7 @@ st.markdown(
 st.markdown(
     """
     <div style="width: 100%; padding:10px;">
-        <h1 style="color: #000000; text-align: center; margin: 0;">Applications Web Interactives pour l'Analyse de Données et le Machine Learning</h1>
+        <h1 style="color: #000000; text-align: center; margin: 0;">Applications Web pour l'Analyse de Données et le Machine Learning</h1>
     </div>
     """, unsafe_allow_html=True)
 
@@ -75,7 +75,7 @@ if show_documentation:
         """
         <div class="info-box">
             <h2>Documentation</h2>
-            <p>Cette application web a été développée en 2024 par M. Mahamat Hassan, étudiant en Master Big Data et Statistique à l’Université Paris-Dauphine. Elle fournit une interface interactive pour le traitement des données et la création de modèles de machine learning. Grâce à cette application, les utilisateurs peuvent charger des fichiers de données, explorer et analyser ces données, et entraîner divers modèles de machine learning pour faire des prédictions. Voici une vue d'ensemble des fonctionnalités principales :</p>
+            <p>Cette application web a été développée en 2024 par M. Mahamat Hassan Issa, étudiant en Master Big Data et Statistique à l’Université Paris-Dauphine. Elle fournit une interface interactive pour le traitement des données et la création de modèles de machine learning. Grâce à cette application, les utilisateurs peuvent charger des fichiers de données, explorer et analyser ces données, et entraîner divers modèles de machine learning pour faire des prédictions. Voici une vue d'ensemble des fonctionnalités principales :</p>
             <h4>Chargement des Fichiers</h4>
             <p>Permet le téléchargement et la lecture de différents types de fichiers (csv, txt, xlsx, xls, parquet, json).</p>
             <h4>Analyse Univariée</h4>
@@ -111,7 +111,7 @@ if show_contact:
     st.markdown(
         """
         <div class="info-box">
-            <h2>Pour toute question ou assistance, veuillez contacter M. Mahamat Hassan :</h2>
+            <h2>Pour toute question ou assistance, veuillez contacter M. Mahamat Hassan Issa :</h2>
             <p>Email : mhtissaymii@yahoo.fr</p>
             <p>Téléphone : +33 745179907</p>
             <p>Visitez notre <a href="https://data-formation.net/" target="_blank" style="color: #F0F8FF; text-decoration: underline;">site web</a></p>
